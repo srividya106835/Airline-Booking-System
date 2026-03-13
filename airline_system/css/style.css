@@ -1,0 +1,98 @@
+body{
+font-family:Arial;
+background:#f5f7fb;
+margin:0;
+}
+
+
+/* HERO */
+
+.hero{
+
+background:linear-gradient(120deg,#007bff,#00d4ff);
+
+color:white;
+
+text-align:center;
+
+padding:100px 20px;
+
+}
+
+
+.hero h1{
+
+font-size:50px;
+
+font-weight:bold;
+
+}
+
+
+.hero p{
+
+font-size:18px;
+
+margin-bottom:30px;
+
+}
+
+
+/* SEARCH BOX */
+
+.search-box{
+
+background:white;
+
+padding:25px;
+
+border-radius:15px;
+
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
+
+max-width:900px;
+
+margin:auto;
+
+}
+
+
+/* FEATURES */
+
+.feature-card{
+
+background:white;
+
+padding:30px;
+
+border-radius:15px;
+
+box-shadow:0 6px 15px rgba(0,0,0,0.1);
+
+transition:0.3s;
+
+}
+
+
+.feature-card:hover{
+
+transform:translateY(-10px);
+
+}
+
+
+/* FOOTER */
+
+.footer{
+
+margin-top:60px;
+
+background:#222;
+
+color:white;
+
+text-align:center;
+
+padding:15px;
+
+}
